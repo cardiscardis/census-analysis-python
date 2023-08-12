@@ -6,5 +6,5 @@ Sample Census Data Analysis. Data Analysis 101
 
 Find more information here:
 
-The article details the preprocessing, analysis, and outcome of a specific census dataset for an unnamed town to help the local administration make decisions and formulate policies.
+The article details the preprocessing, analysis, and outcome of a specific census dataset for an unnamed town to help the local administration make decisions and formulate policies. The dataset could not be shared for private reasons.
 
